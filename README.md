@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Ali Bolandi!
+## 👋 Hi, I'm Alian Bolandi!
 
 🚀 **Senior Backend & Mobile Developer** | Passionate about scalable architectures, high-performance backend systems, and modern mobile app development.
 
